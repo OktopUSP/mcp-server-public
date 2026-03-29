@@ -2,7 +2,7 @@
 
 Pre-built binaries for the MCP Server.
 
-**Latest Version:** v1.0.0
+**Latest Version: v1.0.1
 
 ## Quick Start
 
